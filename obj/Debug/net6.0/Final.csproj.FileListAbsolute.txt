@@ -1,0 +1,14 @@
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.exe
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.deps.json
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.runtimeconfig.json
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.dll
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.pdb
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.AssemblyInfoInputs.cache
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.AssemblyInfo.cs
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.csproj.CoreCompileInputs.cache
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.dll
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\refint\Final.dll
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.pdb
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.genruntimeconfig.cache
+D:\Qin\C#\ExampleProjects\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\ref\Final.dll
